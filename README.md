@@ -1,1 +1,1 @@
-# YOLO-ile-Ak-ll--Kav-ak-Yap-m-
+# YOLO-ile-Akilli-Kavsak-Uygulmasi
